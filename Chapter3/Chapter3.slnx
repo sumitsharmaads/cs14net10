@@ -1,3 +1,8 @@
 <Solution>
+  <Project Path="Arrays/Arrays.csproj" Id="d5c6886d-375f-447e-8310-1b4a6e88e2ec" />
+  <Project Path="CastingConverting/CastingConverting.csproj" Id="3c6af9de-eed5-4769-8a4f-c3b89210bd07" />
+  <Project Path="HandlingExceptions/HandlingExceptions.csproj" Id="f092c27e-9ebb-4d55-be0c-e46a251ebf56" />
+  <Project Path="IterationStatement/IterationStatement.csproj" Id="6f2d8294-9850-4e93-945e-6a09dcf94cdc" />
   <Project Path="Operator/Operator.csproj" />
+  <Project Path="SelectionStatement/SelectionStatement.csproj" Id="c2e16988-6b4d-4192-9501-69a61d4f1128" />
 </Solution>
