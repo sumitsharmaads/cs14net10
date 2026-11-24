@@ -23,3 +23,17 @@ Console.WriteLine(
 
 Console.WriteLine($"{numberOfApples} apples cost {pricePerApple
  * numberOfApples:C}");
+
+//outputting a value using multiple formats
+decimal value = 1234.335M;
+Console.WriteLine("{0:C}, percentage: {0:0.0%}", value);
+
+Console.WriteLine("The date is {0:D} and the time is {0:T}.", DateTime.Now);
+
+Console.WriteLine("The group separator is {0:0,0.00}.", value);
+
+#region
+string ? name = Console.ReadLine();
+string ? age = Console.ReadLine();
+Console.WriteLine($"Hello {name}, you look good for {age}.");
+#endregion
